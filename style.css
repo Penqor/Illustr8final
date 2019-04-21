@@ -1,0 +1,153 @@
+/* Stylinf for headers */
+h1 {
+    margin-left: 44vw;
+    font-size: 50px;
+    font-family: 'Srisakdi', cursive;
+
+}
+
+h2 {
+    font-size: 50px;
+    margin-right: 37.5vw;
+    margin-left: 33.5vw;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    color: #C5D5EA;
+
+
+}
+
+h4 {
+    margin-left: 39vw;
+    padding-top: 0vw;
+    font-size: 22px;
+    color: #C5D5EA;
+    font-family: 'Cairo', sans-serif;
+
+
+
+}
+
+/* Styling for Logo Image */
+.logo {
+    margin-left: 41vw;
+}
+
+/* Navigation Styling */
+.rightnav {
+    float: right;
+    padding-right: 0.5vw;
+    overflow: inherit;
+
+}
+
+.navleft {
+    float: left;
+    font-size: 1.4vw;
+    width: 100px;
+
+}
+
+/* Styling for Paragraphs */
+p, .bio {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Cairo', sans-serif;
+    color: #C5D5EA;
+
+}
+
+p {
+    max-width: 59vw;
+    margin-left: 20vw;
+}
+
+/* Styling for links */
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.4vw;
+    padding-left: 0.5vw;
+}
+
+/* Stylng for Old Man Image */
+.oldman {
+    float: left;
+    margin-left: 2vw;
+    margin-top: 2vw;
+    border-radius: 20px;
+    overflow: hidden;
+
+}
+
+/* Styling for Images */
+
+img {
+    border-radius: 15px;
+
+}
+
+/* Styling for Copyright Message */
+.copy {
+    font-size: 15px;
+    margin-top: 2vw;
+    margin-left: 2vw;
+    color: #C5D5EA;
+}
+
+/* Styling for buttons */
+.btn {
+    background-color: #8BD8BD;
+    border: none;
+    color: #243665;
+    padding: 1vw 1.1vw;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 15vw;
+    width: 85px;
+    text-align: center;
+    overflow: hidden;
+    font-family: 'PT Serif', serif;
+
+}
+
+.btn:hover {
+    background-color: #243665;
+    color: #8BD8BD;
+}
+
+.hbtn {
+    background-color: #8BD8BD;
+    border: none;
+    color: #243665;
+    padding: 1vw 1.1vw;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 15vw;
+    width: 95px;
+    text-align: center;
+    overflow: hidden;
+    font-family: 'PT Serif', serif;
+
+}
+
+.hbtn:hover {
+    background-color: #243665;
+    color: #8BD8BD;
+}
+
+/* Styling for Bio Paragraph */
+.bio {
+    max-width: 60vw;
+    margin-left: 20vw;
+}
+
+/* Syling for Body */
+body {
+    background-color: #2E5266;
+}
+
+/* Styling for Navigation Buttons */
+.mbtn {
+    margin-top: 2vw;
+}
